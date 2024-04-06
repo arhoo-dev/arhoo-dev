@@ -18,6 +18,5 @@
  
  
 <div> 
-  <a href = "mailto:adrielosorio@icloud.com"><img src="[https://img.shields.io/badge/Mail-lightblue?style=for-the-badge&logo=Mail&logoColor=light%20blue&labelColor=lightblue&color=lightblue]" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/adriel-rudá-henrique-ogawa-osório-71979b90/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
